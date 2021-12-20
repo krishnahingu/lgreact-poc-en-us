@@ -27,6 +27,20 @@
         "categoryValue": "tv-audio-video-deals",
         "categoryDescription": "All the Laundry will be under this section",
         "parentCategoryId": 1
+      },
+      {
+        "id": 3,
+        "categoryLabel": "Kitchen",
+        "categoryValue": "kitchen",
+        "categoryDescription": "All the Kitchen appliances will be under this section",
+        "parentCategoryId": 1
+      },
+      {
+        "id": 4,
+        "categoryLabel": "Laundry",
+        "categoryValue": "laundry",
+        "categoryDescription": "All the laundry appliances will be under this section",
+        "parentCategoryId": 1
       }
     ],
     "products": [
@@ -61,7 +75,7 @@
         ],
         "categoryId": 1,
         "productSKU": "lg-oled55a1pua-oled-4k-tv",
-        "bannerImage": "https://www.lg.com/us/images/TV/features/OLED2021/TV-OLED-A1-10-Cinema-Desktop-2.jpg",
+        "bannerImage": "https://www.lg.com/us/images/tvs/md08000473/350.jpg",
         "rating": {
           "rate": 3.9,
           "count": 120
@@ -102,7 +116,7 @@
         ],
         "categoryId": 1,
         "productSKU": "lg-86qned90upa-mini-led-4k-tv",
-        "bannerImage": "https://www.lg.com/us/images/tvs/md08000597/gallery/D-1.jpg",
+        "bannerImage": "https://www.lg.com/us/images/tvs/md08000473/350.jpg",
         "rating": {
           "rate": 3.4,
           "count": 86
@@ -143,12 +157,286 @@
         ],
         "categoryId": 1,
         "productSKU": "lg-86nano90una-4k-uhd-tv",
-        "bannerImage": "https://www.lg.com/us/images/tvs/md07500092/gallery/desktop-01.jpg",
+        "bannerImage": "https://www.lg.com/us/images/tvs/md07501036/350.jpg",
         "rating": {
           "rate": 3,
           "count": 92
         },
         "topReview": "It’s hard to describe, but OLED just pops.",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
+      },
+          
+          
+      {
+        "id": 4,
+        "productLabel": "DEAL OF TEH DAY",
+        "title": "LG gram 17'' Ultra-Lightweight Laptop with 11th Gen Intel® Core™ Processor w/Intel® Iris® Xe Graphics",
+        "price": {
+          "basePrice": "$1,399.99",
+          "discount": "$300.00",
+          "finalPrice": "$1,099.99"
+        },
+        "description": "LG gram 17'' Ultra-Lightweight Laptop with 11th Gen Intel® Core™ Processor w/Intel® Iris® Xe Graphics",
+        "keyFeatures": [
+          "17.0” WQXGA (2560 x 1600) IPS LCD Screen",
+          "Windows 10 Home (64bit)",
+          "16GB LPDDR4X 4266MHz RAM"
+        ],
+        "sizes": [
+          {
+            "price": "$4499.00",
+            "label": 12
+          },
+          {
+            "price": "$2999.00",
+            "label": 13
+          },
+          {
+            "price": "$2199.00",
+            "label": 14
+          }
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-17z95n-g.aas6u1-ultra-slim-laptop",
+        "bannerImage": "https://www.lg.com/us/images/laptops/md08001063/3501.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        },
+        "topReview": "It’s hard to describe, but OLED just pops.",
+        "offers": [
+          "SHIPPING"
+        ]
+      },
+      {
+        "id": 5,
+        "productLabel": "BLACK FRIDAY",
+        "title": "LG SPK8-S 2.0 Channel Sound Bar Wireless Rear Speaker Kit",
+        "price": {
+          "basePrice": "$179.99",
+          "discount": "$50.00",
+          "finalPrice": "$129.99"
+        },
+        "description": "Pair the LG Rear Speaker Kit to an SN10YG, SN9YG, SN8YG, SN7Y, SN7CY, SN6Y, SN5Y, SLM6Y, GX, SL10YG, SL9YG, SL8YG, SL7Y, SL6Y, SL5Y, SL4Y, SKM5Y, SK10Y, SK9Y, SK8Y, SK6Y, SK5Y sound bar for true home theater surround.",
+        "keyFeatures": [
+          "2.0ch/140W",
+          "Surround Sound Expansion"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-SPK8-S-wireless-surround-kit",
+        "bannerImage": "https://www.lg.com/us/images/home-audio/md05936736/SPK8-350.jpg",
+        "rating": {
+          "rate": 3.4,
+          "count": 86
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING"
+        ]
+      },
+      {
+        "id": 6,
+        "productLabel": "CHRISMASH BONUS",
+        "title": "LG CordZero™ A9 Kompressor Stick Vacuum - Iron Grey",
+        "price": {
+          "basePrice": "$3,299.99",
+          "discount": "$800.00",
+          "finalPrice": "$2,499.99"
+        },
+        "description": "The Kompressor™ lever compresses dirt, dust & pet hair in the bin to more than double* bin capacity.",
+        "keyFeatures": [
+          "Kompressor® Technology",
+          "2 Quick Release Batteries and Portable Charging Stand"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-a927kgms-stick-vacuum",
+        "bannerImage": "https://www.lg.com/us/images/vacuum-cleaners/md07505995/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
+      },
+      {
+        "id": 7,
+        "productLabel": "SPECIAL OFFER",
+        "title": "LG SIGNATURE 15 cu. ft. Smart wi-fi Enabled InstaView® Wine Cellar Refrigerator",
+        "price": {
+          "basePrice": "$6,999.00",
+          "discount": "$0",
+          "finalPrice": "$6,999.00"
+        },
+        "description": "Three optimal temperature zones provide ideal conditions to preserve and bring out the unique flavors of red, white, and sparkling wines.",
+        "keyFeatures": [
+          "LG SIGNATURE",
+          "65 Wine Bottle Capacity"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 3,
+        "productSKU": "lg-uretc1408n-wine-cellar-refrigerator-lgsignature",
+        "bannerImage": "https://www.lg.com/us/images/refrigerators/md08000177/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
+      },
+      {
+        "id": 8,
+        "productLabel": "SPECIAL OFFER",
+        "title": "28 cu ft. Smart InstaView® Door-in-Door® Double Freezer Refrigerator with Craft Ice™",
+        "price": {
+          "basePrice": "$3,799.00",
+          "discount": "$0",
+          "finalPrice": "$3,799.00"
+        },
+        "description": "Stock up and store everything you need. With a cavernous 28 cubic feet of space, this LG French Door refrigerator gives you ample space for all your family's favorite foods and keeps them conveniently organized and within reach.",
+        "keyFeatures": [
+          "28 cu. ft Large Capacity",
+          "Double Freezer Drawers"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 3,
+        "productSKU": "lg-lrmvs2806s-instaview-refrigerator",
+        "bannerImage": "https://www.lg.com/us/images/refrigerators/md08000177/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
+      },
+      {
+        "id": 9,
+        "productLabel": "SPECIAL OFFER",
+        "title": "30 cu. ft. Smart wi-fi Enabled InstaView™ Door-in-Door® Refrigerator with Craft Ice™ Maker",
+        "price": {
+          "basePrice": " $4,399.00",
+          "discount": "$600.00",
+          "finalPrice": "$3,799.00"
+        },
+        "description": "With the Super-Capacity 30 cu. ft. refrigerator, you have even more usable space* allowing you to store more food than ever before.",
+        "keyFeatures": [
+          "30 cu. ft. Capacity",
+          "InstaView™ Door-in-Door® with adjustable bin"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 3,
+        "productSKU": "lg-lrfvs3006s-instaview-refrigerator",
+        "bannerImage": "https://www.lg.com/us/images/refrigerators/md07000072/md07000072-350x350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
+      },
+      {
+        "id": 10,
+        "productLabel": "SPECIAL OFFER",
+        "title": "Single Unit Front Load LG WashTower™ with Center Control™ 4.5 cu. ft. Washer and 7.4 cu. ft. Electric Dryer",
+        "price": {
+          "basePrice": " $2,499.00",
+          "discount": "$600.00",
+          "finalPrice": "$1,899.00"
+        },
+        "description": "Forget about sorting or choosing cycles- built-in sensors use AI technology to detect fabric texture & load size, then customize wash motions and dry temps & more for advanced fabric care.",
+        "keyFeatures": [
+          "Ultra Large Capacity 4.5 cu.ft. Washer and 7.4 cu.ft. Dryer",
+          "Single Unit WashTower™ Design"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-wkex200hba-washtower",
+        "bannerImage": "https://www.lg.com/us/images/washer-dryer-combos/md07516046/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
+      },
+      {
+        "id": 11,
+        "productLabel": "SPECIAL OFFER",
+        "title": "4.5 cu. ft. Ultra Large Capacity Smart wi-fi Enabled Front Load Washer with TurboWash™ 360° and Built-In Intelligence",
+        "price": {
+          "basePrice": " $1,099.00",
+          "discount": "$100.00",
+          "finalPrice": "$949.00"
+        },
+        "description": "5 powerful jets spray clothes from multiple angles for a complete clean in under 30 minutes*.",
+        "keyFeatures": [
+          "4.5 cu. ft. Ultra Large Capacity",
+          "TurboWash™ 360° Technology"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-wm4000hwa-front-load-washer",
+        "bannerImage": "https://www.lg.com/us/images/washers/md07513842/3502.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
+      },
+      {
+        "id": 12,
+        "productLabel": "SPECIAL OFFER",
+        "title": "5.0 cu.ft. Smart wi-fi Enabled Top Load Washer with TurboWash3D™ Technology",
+        "price": {
+          "basePrice": " $1,099.00",
+          "discount": "$100.00",
+          "finalPrice": "$949.00"
+        },
+        "description": "LG Top Load HE Washers were Evaluated by Consumer Reports",
+        "keyFeatures": [
+          "5.0 cu.ft. Mega Capacity",
+          "TurboWash3D™ Technology"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-WT7300CV-top-load-washer",
+        "bannerImage": "https://www.lg.com/us/images/washers/md06076536/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
         "offers": [
           "SHIPPING",
           "WARRANTY"
